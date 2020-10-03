@@ -1,0 +1,41 @@
+.logo_taille{
+    padding: 0px;
+}
+
+.titre{
+    padding: 5px;
+    align-items: left;
+}
+
+.list{
+    text-align:left;
+    padding-left: 0px;
+}
+
+.button_align{
+    align-self: right;
+}
+
+.logo_taille{
+    display: block;
+}
+
+/*.header{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}*/
+
+/* Pour le test */
+/*#header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+  }
+  
+#header a {
+    float: left;
+    display: block;
+  }*/
